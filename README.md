@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="AI Safety Sri Lanka — Governance, Ethics, Open Resources" width="100%">
+</p>
+
 # AI Safety Sri Lanka - Resources
 
 Central hub for working-group outputs, event materials, curated reading, and Sri Lanka-specific AI safety, governance, and ethics resources, maintained by the **AI Safety, Governance & Ethics (SGE) Chapter - Sri Lanka**.
