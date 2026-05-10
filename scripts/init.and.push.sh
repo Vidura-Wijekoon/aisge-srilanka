@@ -17,7 +17,7 @@
 # -----------------------------------------------------------------------------
 set -euo pipefail
 
-REMOTE_URL="https://github.com/Vidura-Wijekoon/aisge-srilanka.git"
+REMOTE_URL="https://github.com/AI-SGE-SriLanka/aisge-srilanka.git"
 DEFAULT_BRANCH="main"
 COMMIT_MSG="Initial chapter resources structure"
 
@@ -71,4 +71,4 @@ echo "→ git push -u origin $DEFAULT_BRANCH"
 git push -u origin "$DEFAULT_BRANCH"
 
 echo ""
-echo "✅ Pushed. Repo is live at: https://github.com/Vidura-Wijekoon/aisge-srilanka"
+echo "✅ Pushed. Repo is live at: https://github.com/AI-SGE-SriLanka/aisge-srilanka"

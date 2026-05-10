@@ -17,7 +17,7 @@
 
 $ErrorActionPreference = "Stop"
 
-$RemoteUrl     = "https://github.com/Vidura-Wijekoon/aisge-srilanka.git"
+$RemoteUrl     = "https://github.com/AI-SGE-SriLanka/aisge-srilanka.git"
 $DefaultBranch = "main"
 $CommitMsg     = "Initial chapter resources structure"
 
@@ -72,4 +72,4 @@ Write-Host "→ git push -u origin $DefaultBranch"
 git push -u origin $DefaultBranch
 
 Write-Host ""
-Write-Host "✅ Pushed. Repo is live at: https://github.com/Vidura-Wijekoon/aisge-srilanka" -ForegroundColor Green
+Write-Host "✅ Pushed. Repo is live at: https://github.com/AI-SGE-SriLanka/aisge-srilanka" -ForegroundColor Green

@@ -9,7 +9,7 @@ Central hub for working-group outputs, event materials, curated reading, and Sri
 > 🇱🇰 *Built to connect Sri Lankan technologists, researchers, civil society, and policymakers with the global AI safety community - and to surface the work already happening in our universities, regulators, and newsrooms.*
 
 **Website:** <https://www.aisgechaptersrilanka.org/>
-**Repo:** <https://github.com/Vidura-Wijekoon/aisge-srilanka>
+**Repo:** <https://github.com/AI-SGE-SriLanka/aisge-srilanka>
 **Submit new resources via Pull Request 🙏** - see [`CONTRIBUTING.md`](./CONTRIBUTING.md).
 **First-time push?** - see [`SETUP.md`](./SETUP.md).
 

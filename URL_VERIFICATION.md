@@ -96,7 +96,7 @@ These couldn't be fetched because of internal tool-provenance rules, not because
 
 | URL | Status |
 |-----|--------|
-| `github.com/Vidura-Wijekoon/aisge-srilanka` | Will resolve once you complete the `git push` from `SETUP.md`. |
+| `github.com/AI-SGE-SriLanka/aisge-srilanka` | Will resolve once you complete the `git push` from `SETUP.md`. |
 
 ---
 

@@ -42,7 +42,7 @@ git init
 git add .
 git commit -m "Initial chapter resources structure"
 git branch -M main
-git remote add origin https://github.com/Vidura-Wijekoon/aisge-srilanka.git
+git remote add origin https://github.com/AI-SGE-SriLanka/aisge-srilanka.git
 git push -u origin main
 ```
 
@@ -53,7 +53,7 @@ git init
 git add .
 git commit -m "Initial chapter resources structure"
 git branch -M main
-git remote add origin https://github.com/Vidura-Wijekoon/aisge-srilanka.git
+git remote add origin https://github.com/AI-SGE-SriLanka/aisge-srilanka.git
 git push -u origin main
 ```
 
@@ -65,7 +65,7 @@ Same commands as PowerShell - they're all just `git`.
 
 ## Step 3 - Verify
 
-Open <https://github.com/Vidura-Wijekoon/aisge-srilanka> and check:
+Open <https://github.com/AI-SGE-SriLanka/aisge-srilanka> and check:
 
 - The README renders with all the section tables
 - All folders are present (Civil.Society, Community, Governance, Literacy, Local.Academia, Local.Languages, Reading.List, Tech.Security)
@@ -76,7 +76,7 @@ Open <https://github.com/Vidura-Wijekoon/aisge-srilanka> and check:
 
 ## Optional - recommended GitHub repo settings
 
-Once pushed, configure these on `github.com/Vidura-Wijekoon/aisge-srilanka/settings`:
+Once pushed, configure these on `github.com/AI-SGE-SriLanka/aisge-srilanka/settings`:
 
 | Setting | Value | Why |
 |---------|-------|-----|
